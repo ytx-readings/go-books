@@ -1,0 +1,3 @@
+[submodule "sample-code/pro-go"]
+	path = sample-code/pro-go
+	url = https://github.com/Apress/pro-go
