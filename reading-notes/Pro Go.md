@@ -18,3 +18,14 @@ Some useful `go` command arguments:
 | `test` | Executes unit tests. |
 | `version` | Writes out the Go version number. |
 | `vet` | Detects common problems in Go code. |
+
+## Go Basic Data Types
+
+* Integer types:
+    * Signed: `int` (sizes: `int8`, `int16`, `int32`, `int64`)
+    * Unsigned: `uint` (sizes: `uint8`, `uint16`, `uint32`, `uint64`)
+* Floating point types: `float32`, `float64`
+* Complex types: `complex64`, `complex128`
+* Boolean type: `bool`
+* String type: `string`
+* Unicode character type: `rune`
