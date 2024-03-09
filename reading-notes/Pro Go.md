@@ -78,6 +78,7 @@ Some useful `go` command arguments:
     * Compare arrays: use comparison operators
     * Enumerate an array: use the `for` loop with `range` keyword
 * Slice operations:
+    * Allocate a slice: use the `make` function
     * Append to a slice: use the `append` function
     * Create a slice from an array: use a range
     * Copy elements to slice: use the `copy` function
@@ -87,6 +88,7 @@ Some useful `go` command arguments:
     * Compare slices: use the `reflect` package
     * Obtain a pointer to an array underlying a slice: make an explicit conversion to convert the slice to an array whose length is less than or equal to the length of the slice
 * Map operations:
+    * Allocate a map: use the `make` function
     * Remove a key-value pair from a map: use the `delete` function
     * Enumerate the contents of a map: use the `for` loop with `range` keyword
 * String operations:
