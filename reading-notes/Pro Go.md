@@ -56,3 +56,14 @@ Some useful `go` command arguments:
 * `0b`: Binary
 * `0o`: Octal
 * `0x`: Hexadecimal
+
+### Flow Control
+
+* Branch statements:
+    * `if`, `else`
+    * `switch`, `case`, `default`, `fallthrough`
+* Loop statements:
+    * `for`, `break`, `continue`
+    * `range`
+* Jumping statements:
+    * `goto`
