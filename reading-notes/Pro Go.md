@@ -41,3 +41,12 @@ Some useful `go` command arguments:
 * `bool`: `false`
 * `string`: `""`
 * `rune`: 0
+
+### Operators
+
+* Arithmetic: `+`, `-`, `*`, `/`, `%`
+* Comparison: `==`, `!=`, `<`, `>`, `<=`, `>=`
+* Logical: `&&`, `||`, `!`
+* Assignment: `=`, `%=`
+* Self increment/decrement: `++`, `--`, `+=`, `-=`
+* Bitwise: `&`, `|`, `^`, `&^`, `<<`, `>>`
