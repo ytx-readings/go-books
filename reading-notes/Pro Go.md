@@ -67,3 +67,29 @@ Some useful `go` command arguments:
     * `range`
 * Jumping statements:
     * `goto`
+
+### Collection Types: Arrays, Slices, and Maps
+
+* Data structures:
+    * Array: Fixed number of values of the same type
+    * Slice: Variable number of the values of the same type; or a view on an array
+    * Map: Collection of key-value pairs
+* Array operations:
+    * Compare arrays: use comparison operators
+    * Enumerate an array: use the `for` loop with `range` keyword
+* Slice operations:
+    * Append to a slice: use the `append` function
+    * Create a slice from an array: use a range
+    * Copy elements to slice: use the `copy` function
+    * Delete elements from a slice: use the `append` function with ranges that omit the elements to be deleted
+    * Enumerate a slice: use the `for` loop with `range` keyword
+    * Sort elements in a slice: use the `sort` package
+    * Compare slices: use the `reflect` package
+    * Obtain a pointer to an array underlying a slice: make an explicit conversion to convert the slice to an array whose length is less than or equal to the length of the slice
+* Map operations:
+    * Remove a key-value pair from a map: use the `delete` function
+    * Enumerate the contents of a map: use the `for` loop with `range` keyword
+* String operations:
+    * Read byte values or characters: use the string as an array, or perform an explicit conversion to the `[]rune` type
+    * Enumerate characters in a string: use the `for` loop with `range` keyword
+    * Enumerate bytes in a string: make an explicit conversion to `byte[]`, then use the `for` loop with `range` keyword
