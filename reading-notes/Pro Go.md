@@ -50,3 +50,9 @@ Some useful `go` command arguments:
 * Assignment: `=`, `%=`
 * Self increment/decrement: `++`, `--`, `+=`, `-=`
 * Bitwise: `&`, `|`, `^`, `&^`, `<<`, `>>`
+
+### Integer Prefixes
+
+* `0b`: Binary
+* `0o`: Octal
+* `0x`: Hexadecimal
