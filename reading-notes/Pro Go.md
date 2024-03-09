@@ -19,7 +19,9 @@ Some useful `go` command arguments:
 | `version` | Writes out the Go version number. |
 | `vet` | Detects common problems in Go code. |
 
-## Go Basic Data Types
+## Go Basics
+
+### Basic Data Types
 
 * Integer types:
     * Signed: `int` (sizes: `int8`, `int16`, `int32`, `int64`)
@@ -29,3 +31,13 @@ Some useful `go` command arguments:
 * Boolean type: `bool`
 * String type: `string`
 * Unicode character type: `rune`
+
+### Zero Values
+
+* `int`: 0
+* `uint`: 0
+* `byte`: 0
+* `float64`: 0
+* `bool`: `false`
+* `string`: `""`
+* `rune`: 0
