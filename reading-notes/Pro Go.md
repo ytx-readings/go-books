@@ -134,3 +134,26 @@ switch value := v.(type) {
         // handle default case
 }
 ```
+
+### The Empty Interface
+
+The **empty-interface** type, `interface{}`, is the a special type that can represent _any type_, including built-in types.
+
+```go
+switch value := v.(type) {
+    case int:
+        // value is of type int
+        // handle the case
+    case float:
+        // value is of type float
+        // handle the case
+    case MyType:
+        // value is of type MyType
+        // handle the case
+    case *MyType:
+        // value is of type *MyType
+        // handle the case
+    default:
+        // handle default case
+}
+```
