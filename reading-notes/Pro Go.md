@@ -95,3 +95,25 @@ Some useful `go` command arguments:
     * Read byte values or characters: use the string as an array, or perform an explicit conversion to the `[]rune` type
     * Enumerate characters in a string: use the `for` loop with `range` keyword
     * Enumerate bytes in a string: make an explicit conversion to `byte[]`, then use the `for` loop with `range` keyword
+
+### Type Assertion vs. Type Conversion
+
+* Type Assertion:
+
+    ```go
+    // target: v
+    // type: myInterface
+    a := v.(myInterface)
+    ```
+* Type Conversion:
+
+    ```go
+    // value: b
+    // target type: float64
+    a := float64(b)
+    ```
+
+Difference between the **type assertion** and **type conversion**:
+
+* **Type assertions** can be applied _only to interfaces_, and they are used to tell the compiler that an interface value has a _specific dynamic type_.
+* **Type conversions** can be applied only to specific types, not interfaces, and only if the structure of those types is compatible, such as converting between struct types that have the same fields.
