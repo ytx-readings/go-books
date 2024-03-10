@@ -7,6 +7,7 @@
 * [_Efficient Go_](./books/Efficient%20Go%20Data-Driven%20Performance%20Optimization%20(Bartlomiej%20Plotka)%20(Z-Library).pdf)
 * [_Go Design Patterns_](./books/Go%20design%20patterns%20learn%20idiomatic,%20efficient,%20clean,%20and%20extensible%20Go%20design%20and%20concurrency%20patterns%20by%20using%20TDD%20(Contreras,%20Mario%20Castro)%20(Z-Library).pdf)
 * [_Pro Go_](./books/Pro_Go.pdf)
+* [_Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker_](./books/Software%20Development%20with%20Go%20Cloud-Native%20Programming%20using%20Golang%20with%20Linux%20and%20Docker%20(Nanik%20Tolaram)%20(Z-Library).pdf)
 * [_The Go Programming Language_](./books/The%20Go%20Programming%20Language.pdf)
 
 ## Sample Code
