@@ -96,7 +96,7 @@ Some useful `go` command arguments:
     * Enumerate characters in a string: use the `for` loop with `range` keyword
     * Enumerate bytes in a string: make an explicit conversion to `byte[]`, then use the `for` loop with `range` keyword
 
-### Type Assertion vs. Type Conversion
+### Type Assertion and Type Conversion
 
 * Type Assertion:
 
@@ -117,3 +117,20 @@ Difference between the **type assertion** and **type conversion**:
 
 * **Type assertions** can be applied _only to interfaces_, and they are used to tell the compiler that an interface value has a _specific dynamic type_.
 * **Type conversions** can be applied only to specific types, not interfaces, and only if the structure of those types is compatible, such as converting between struct types that have the same fields.
+
+#### Switching on Dynamic Types
+
+You can use the `switch` statement to switch on the dynamic type of an interface value:
+
+```go
+switch value := v.(type) {
+    case A:
+        // value is of type A
+        // handle the case
+    case B:
+        // value is of type B
+        // handle the case
+    default:
+        // handle default case
+}
+```
