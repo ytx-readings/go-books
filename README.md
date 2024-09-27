@@ -15,7 +15,3 @@
 ## Sample Code
 
 * [_Pro Go_](https://github.com/Apress/pro-go)
-
-## Reading Notes
-
-* [_Pro Go_](./reading-notes/Pro%20Go.md)
