@@ -2,6 +2,8 @@
 
 ## Books
 
+* [_An Introduction to Programming in Go_](./books/vdoc.pub_an-introduction-to-programming-in-go.pdf)
+* [_Black-Hat Go Programming for Hackers and Pentesters_](./books/Black-Hat-Go_Go-Programming-For-Hackers-and-Pentesters.pdf)
 * [_Building Microservices with Go_](./books/Building%20microservices%20with%20Go%20build%20seamless,%20efficient,%20and%20robust%20microservices%20with%20Go%20(Jackson,%20Nic)%20(Z-Library).pdf)
 * [_Effective Concurrency in Go_](./books/Effective_Concurrency_in_Go__Develop.pdf)
 * [_Efficient Go_](./books/Efficient%20Go%20Data-Driven%20Performance%20Optimization%20(Bartlomiej%20Plotka)%20(Z-Library).pdf)
@@ -13,6 +15,7 @@
 * [_Network Programming with Go: Code Secure and Reliable Network Services from Scratch_](./books/dokumen.pub_network-programming-with-go-9781718500891-2020943331.epub)
 * [_Network Programming with Go: Essential Skills for Using and Securing Networks_](./books/Network%20Programming%20with%20Go_%20Essential%20Skills%20for%20Using%20and%20Securing%20Networks%20(%20PDFDrive%20).pdf)
 * [_Pro Go_](./books/Pro_Go.pdf)
+* [_Programming in Go: Creating Applications for the 21st Century_](./books/vdoc.pub_programming-in-go-creating-applications-for-the-21st-century.pdf)
 * [_Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker_](./books/Software%20Development%20with%20Go%20Cloud-Native%20Programming%20using%20Golang%20with%20Linux%20and%20Docker%20(Nanik%20Tolaram)%20(Z-Library).pdf)
 * [_The Go Programming Language_](./books/The%20Go%20Programming%20Language.pdf)
 
