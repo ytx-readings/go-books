@@ -1,7 +1,5 @@
 # Go books
 
-## Books
-
 * [_An Introduction to Programming in Go_](./books/vdoc.pub_an-introduction-to-programming-in-go.pdf)
 * [_Black-Hat Go Programming for Hackers and Pentesters_](./books/Black-Hat-Go_Go-Programming-For-Hackers-and-Pentesters.pdf)
 * [_Building Microservices with Go_](./books/Building%20microservices%20with%20Go%20build%20seamless,%20efficient,%20and%20robust%20microservices%20with%20Go%20(Jackson,%20Nic)%20(Z-Library).pdf)
@@ -18,7 +16,3 @@
 * [_Programming in Go: Creating Applications for the 21st Century_](./books/vdoc.pub_programming-in-go-creating-applications-for-the-21st-century.pdf)
 * [_Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker_](./books/Software%20Development%20with%20Go%20Cloud-Native%20Programming%20using%20Golang%20with%20Linux%20and%20Docker%20(Nanik%20Tolaram)%20(Z-Library).pdf)
 * [_The Go Programming Language_](./books/The%20Go%20Programming%20Language.pdf)
-
-## Sample Code
-
-* [_Pro Go_](https://github.com/Apress/pro-go)
