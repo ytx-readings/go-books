@@ -8,6 +8,7 @@
 * [_Go Design Patterns_](./books/Go%20design%20patterns%20learn%20idiomatic,%20efficient,%20clean,%20and%20extensible%20Go%20design%20and%20concurrency%20patterns%20by%20using%20TDD%20(Contreras,%20Mario%20Castro)%20(Z-Library).pdf)
 * [_Go in Action_](./books/Go%20in%20Action%20(%20PDFDrive%20).pdf)
 * [_Go Web Programming_](./books/Go%20Web%20Programming%20(%20PDFDrive%20).pdf)
+* [_gRPC Microservices in Go_](./books/gRPC%20Microservices%20in%20Go%20(Hüseyin%20Babal)%20(Z-Library).pdf)
 * [_Introducing Go: Building Reliable, Scalable Programs_](./books/Introducing%20Go_%20Build%20Reliable,%20Scalable%20Programs%20(%20PDFDrive%20).pdf)
 * [_Mastering Go_](./books/vdoc.pub_mastering-go-create-golang-production-applications-using-network-libraries-concurrency-and-advanced-go-data-structures.pdf)
 * [_Network Programming with Go: Code Secure and Reliable Network Services from Scratch_](./books/dokumen.pub_network-programming-with-go-9781718500891-2020943331.epub)
