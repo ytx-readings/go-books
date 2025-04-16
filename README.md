@@ -19,6 +19,10 @@
 * [_The Go Programming Language_](./books/The%20Go%20Programming%20Language.pdf)
 * [_Web Development With Go_](./books/Web%20Development%20With%20Go.pdf)
 
+## [Domain-Driven Design (DDD)](./books/DDD/)
+
+* [_Domain Driven Design with Golang_](./books/DDD/_OceanofPDF.com_Domain-Driven_Design_with_Golang_-_Matthew_Boyle.pdf)
+
 ## [Helm](./books/Helm)
 
 * [_Learning Helm: Managing Apps On Kubernetes_](./books/Helm/learning_helm_managing_apps_on_kubernetes.pdf)
