@@ -22,6 +22,7 @@
 ## [Domain-Driven Design (DDD)](./books/DDD/)
 
 * [_Domain Driven Design with Golang_](./books/DDD/_OceanofPDF.com_Domain-Driven_Design_with_Golang_-_Matthew_Boyle.pdf)
+* [_Go With Domain_](./books/DDD/Go%20With%20Domain/) ([EPUB](./books/DDD/Go%20With%20Domain/go-with-domain.epub), [PDF](./books/DDD/Go%20With%20Domain/go-with-domain.pdf))
 
 ## [Helm](./books/Helm)
 
