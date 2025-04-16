@@ -17,3 +17,7 @@
 * [_Programming in Go: Creating Applications for the 21st Century_](./books/vdoc.pub_programming-in-go-creating-applications-for-the-21st-century.pdf)
 * [_Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker_](./books/Software%20Development%20with%20Go%20Cloud-Native%20Programming%20using%20Golang%20with%20Linux%20and%20Docker%20(Nanik%20Tolaram)%20(Z-Library).pdf)
 * [_The Go Programming Language_](./books/The%20Go%20Programming%20Language.pdf)
+
+## [Helm](./books/Helm)
+
+* [_Learning Helm: Managing Apps On Kubernetes_](./books/Helm/learning_helm_managing_apps_on_kubernetes.pdf)
