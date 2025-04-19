@@ -10,6 +10,7 @@
 * [_Go Web Programming_](./books/Go%20Web%20Programming%20(%20PDFDrive%20).pdf)
 * [_gRPC Microservices in Go_](./books/gRPC%20Microservices%20in%20Go%20(Hüseyin%20Babal)%20(Z-Library).pdf)
 * [_Introducing Go: Building Reliable, Scalable Programs_](./books/Introducing%20Go_%20Build%20Reliable,%20Scalable%20Programs%20(%20PDFDrive%20).pdf)
+* [_Learn Concurrent Programming with Go_](./books/Learn%20Concurrent%20Programming%20with%20Go%20(James%20Cutajar)%20(Z-Library).pdf)
 * [_Mastering Go_](./books/vdoc.pub_mastering-go-create-golang-production-applications-using-network-libraries-concurrency-and-advanced-go-data-structures.pdf)
 * [_Network Programming with Go: Code Secure and Reliable Network Services from Scratch_](./books/dokumen.pub_network-programming-with-go-9781718500891-2020943331.epub)
 * [_Network Programming with Go: Essential Skills for Using and Securing Networks_](./books/Network%20Programming%20with%20Go_%20Essential%20Skills%20for%20Using%20and%20Securing%20Networks%20(%20PDFDrive%20).pdf)
