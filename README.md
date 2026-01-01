@@ -8,6 +8,7 @@
 - [_Go Cookbook_](<./books/Go%20Cookbook%20(Sau%20Sheong%20Chang)%20(Z-Library).pdf>)
 - [_Go Design Patterns_](<./books/Go%20design%20patterns%20learn%20idiomatic,%20efficient,%20clean,%20and%20extensible%20Go%20design%20and%20concurrency%20patterns%20by%20using%20TDD%20(Contreras,%20Mario%20Castro)%20(Z-Library).pdf>)
 - [_Go in Action_](<./books/Go%20in%20Action%20(%20PDFDrive%20).pdf>)
+- [_Go Programming Cookbook_](./books/go-programming-cookbook-readable-applications-2nd.pdf)
 - [_Go Standard Library Cookbook_](<./books/Go%20Standard%20Library%20Cookbook%20(Radomir%20Sohlich)%20(Z-Library).pdf>)
 - [_Go Web Programming_](<./books/Go%20Web%20Programming%20(%20PDFDrive%20).pdf>)
 - [_gRPC Microservices in Go_](<./books/gRPC%20Microservices%20in%20Go%20(Hüseyin%20Babal)%20(Z-Library).pdf>)
