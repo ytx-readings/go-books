@@ -10,6 +10,7 @@
 - [_Go in Action_](<./books/Go%20in%20Action%20(%20PDFDrive%20).pdf>)
 - [_Go Programming Cookbook_](./books/go-programming-cookbook-readable-applications-2nd.pdf)
 - [_Go Standard Library Cookbook_](<./books/Go%20Standard%20Library%20Cookbook%20(Radomir%20Sohlich)%20(Z-Library).pdf>)
+- [_Go Systems Programming_](<./books/Go%20Systems%20Programming%20(Mihalis%20Tsoukalos)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Go Web Programming_](<./books/Go%20Web%20Programming%20(%20PDFDrive%20).pdf>)
 - [_gRPC Microservices in Go_](<./books/gRPC%20Microservices%20in%20Go%20(Hüseyin%20Babal)%20(Z-Library).pdf>)
 - [_Introducing Go: Building Reliable, Scalable Programs_](<./books/Introducing%20Go_%20Build%20Reliable,%20Scalable%20Programs%20(%20PDFDrive%20).pdf>)
